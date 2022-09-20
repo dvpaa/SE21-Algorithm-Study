@@ -1,2 +1,5 @@
 # SE21-Algorithm-Study
-📝소공21 알고리즘 스터디
+
+## Member
+## 스터디 규칙
+## 일정표
