@@ -4,7 +4,6 @@
 |이름|solved.ac|Language|
 |---|---|---|
 |[김윤아](https://github.com/yuna47)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbsdk21)](https://solved.ac/dbsdk21)|<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>|
-|[박찬유](https://github.com/Namneul)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cysarang02)](https://solved.ac/cysarang02)|<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>|
 |[이다현](https://github.com/dlekgus)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dahyun1q)](https://solved.ac/dahyun1q)|<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>|
 
 ## ✔️규칙
@@ -29,3 +28,4 @@
 |1주차(9.21~9.26)|파이썬 기초1|파이썬 부수기|`완료`|
 |2주차(9.27~10.3)|그리디|그리디 이해, 파이썬 숙달|`완료`|
 |3주차(10.4~10.10)|정렬, 이진 탐색|정렬 및 이진 탐색|`완료`|
+|4주차(11.8~11.14)|복습|복습 및 구현|**`진행중`**|
